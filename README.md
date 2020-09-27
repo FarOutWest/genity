@@ -1,2 +1,0 @@
-# genity
-Genity Coding excersize 
